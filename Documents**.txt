@@ -1,0 +1,13 @@
+Task Queries:
+
+creating a room:
+        https://hall-booking-task-ten.vercel.app/route/create
+
+booking a room:
+        https://hall-booking-task-ten.vercel.app/route/book
+
+Booked Rooms:
+        https://hall-booking-task-ten.vercel.app/route/booked
+
+Booked Customers:
+        https://hall-booking-task-ten.vercel.app/route/booked
